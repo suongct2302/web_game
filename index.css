@@ -1,0 +1,16 @@
+.nav-link{
+    font-size: 130%;
+    margin:  80px 10px 0px 20px;
+    color: black;
+}
+.nav-search{
+    margin-top: 30px;
+}
+.nav-log {
+    margin:  35px 10px 0px 0px;
+
+}
+.nav-log a{
+    margin-right: 15px;
+    text-decoration: none;
+}
